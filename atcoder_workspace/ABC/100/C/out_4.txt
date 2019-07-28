@@ -1,0 +1,2 @@
+For every i satisfying 1 \leq i \leq N, perform one of the following: "divide a_i by 2" and "multiply a_i by 3".  
+Here, choosing "multiply a_i by 3" for every i is not allowed, and the value of a_i after the operation must be an integer.

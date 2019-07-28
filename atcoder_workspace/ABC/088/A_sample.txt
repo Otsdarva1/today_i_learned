@@ -1,0 +1,18 @@
+python /Users/yamazakiyoshihiro/atcoder-workspace/ABC/088/A.py
+2018
+218
+[out]
+Yes
+
+python /Users/yamazakiyoshihiro/atcoder-workspace/ABC/088/A.py
+2763
+0
+[out]
+No
+
+python /Users/yamazakiyoshihiro/atcoder-workspace/ABC/088/A.py
+37
+514
+[out]
+Yes
+

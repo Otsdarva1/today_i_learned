@@ -1,0 +1,23 @@
+---- 入力例 1 ----
+5
+MASHIKE
+RUMOI
+OBIRA
+HABORO
+HOROKANAI
+
+---- 入力例 2 ----
+4
+ZZ
+ZZZ
+Z
+ZZZZZZZZZZ
+
+---- 入力例 3 ----
+5
+CHOKUDAI
+RNG
+MAKOTO
+AOKI
+RINGO
+

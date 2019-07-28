@@ -1,0 +1,18 @@
+python /Users/yamazakiyoshihiro/atcoder-workspace/ABC/088/B.py
+2
+3 1
+[out]
+2
+
+python /Users/yamazakiyoshihiro/atcoder-workspace/ABC/088/B.py
+3
+2 7 4
+[out]
+5
+
+python /Users/yamazakiyoshihiro/atcoder-workspace/ABC/088/B.py
+4
+20 18 2 18
+[out]
+18
+

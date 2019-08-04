@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="430e338b-515c-4c46-b78a-601ab540368b" name="Default Changelist" comment="" />
+    <list default="true" id="430e338b-515c-4c46-b78a-601ab540368b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ABC/136/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/136/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/136/C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/136/E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/136/F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,12 +18,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ABC/134/A.py">
+        <entry file="file://$PROJECT_DIR$/ABC/136/D.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            <state relative-caret-position="360">
+              <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user_info.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ABC/136/A.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -44,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/get_result.py" />
         <option value="$PROJECT_DIR$/test_and_submit.py" />
         <option value="$PROJECT_DIR$/ABC/118/A/A.py" />
         <option value="$PROJECT_DIR$/ABC/118/C/C.py" />
@@ -95,13 +120,15 @@
         <option value="$PROJECT_DIR$/ABC/123/B.py" />
         <option value="$PROJECT_DIR$/ABC/133/B.py" />
         <option value="$PROJECT_DIR$/ABC/134/A.py" />
+        <option value="$PROJECT_DIR$/ABC/136/D.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1440" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="568" />
+    <option name="y" value="23" />
     <option name="width" value="2560" />
-    <option name="height" value="1440" />
+    <option name="height" value="822" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -111,7 +138,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,16 +150,11 @@
               <item name="atcoder_workspace" type="462c0819:PsiDirectoryNode" />
               <item name="ABC" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="atcoder_workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcoder_workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC" type="462c0819:PsiDirectoryNode" />
-              <item name="134" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,17 +162,17 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/ABC/086/A" />
-      <recent name="$PROJECT_DIR$/ABC/086/A/samples" />
-      <recent name="$PROJECT_DIR$/ABC/086" />
-      <recent name="$PROJECT_DIR$/ABC/086/samples/A" />
-      <recent name="$PROJECT_DIR$/ABC/086/samples" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/ABC/086/A" />
       <recent name="$PROJECT_DIR$/ABC/086" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ABC/136" />
+      <recent name="$PROJECT_DIR$/ABC/086/A" />
+      <recent name="$PROJECT_DIR$/ABC/086/A/samples" />
+      <recent name="$PROJECT_DIR$/ABC/086" />
+      <recent name="$PROJECT_DIR$/ABC/086/samples/A" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -224,22 +245,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="0" width="2560" height="1440" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.113430485" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30443975" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49964765" weight="0.32891566" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48064086" weight="0.20110957" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.86845213" weight="0.4481752" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.86751235" weight="0.44698796" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.89996064" visible="true" weight="0.1569343" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.100039385" side_tool="true" visible="true" weight="0.1569343" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.8985201" visible="true" weight="0.15662651" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.10147992" side_tool="true" visible="true" weight="0.15662651" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49682876" weight="0.32771084" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -348,16 +369,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/os.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="225" selection-start-line="225" selection-end-line="225" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC/077/B/in_1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ABC/077/B/in_3.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -373,14 +384,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bktestnsub.py" />
-    <entry file="file://$PROJECT_DIR$/mutagen-1.42.0/man/mid3cp.1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-588" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pygame-1.9.4.post1/lib/gp2x/locals.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mutagen-1.42.0/man/mid3cp.1" />
+    <entry file="file://$PROJECT_DIR$/pygame-1.9.4.post1/lib/gp2x/locals.py" />
     <entry file="file://$PROJECT_DIR$/ABC/060/A/A.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -400,16 +405,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.md" />
     <entry file="file://$PROJECT_DIR$/mkdir_atcoder.sh" />
-    <entry file="file://$PROJECT_DIR$/config.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py" />
     <entry file="file://$PROJECT_DIR$/ABC/096/D.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -421,13 +417,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ABC/096/A.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user_info.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/read.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -619,7 +608,27 @@
     <entry file="file://$PROJECT_DIR$/ABC/134/A.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_info.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/136/A.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/136/D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
         </state>
       </provider>
     </entry>
